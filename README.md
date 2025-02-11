@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋 I'm Steve
 
-<!--
-**mutusteve/mutusteve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+🔹 Web Developer | Machine Learning Enthusiast | Tech Explorer  
+🔹 Passionate about building scalable web apps and learning new tech  
+🔹 Currently working on: Real time object detection  
+🔹 Learning: DevOps
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
+- **Frontend:** React, Next.js, Ant Design, Tailwind CSS  
+- **Backend:** Node.js, Express, Django  
+- **Database:** PostgreSQL, Supabase, Firebase  
+- **Machine Learning:** Python, Scikit-Learn  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me  
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/mutusteve)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/stephen-mutu-2ab661300/)  
+
+## 📊 GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
+
+---
